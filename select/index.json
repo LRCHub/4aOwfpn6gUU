@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マッピング・マイ・ワールド",
+  "base_artist": "白丸美兎 (CV.近藤玲奈)",
+  "createdAt": "2026-01-13T15:26:22.442089Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マッピング・マイ・ワールド",
+      "artist": "白丸美兎 (CV.近藤玲奈)",
+      "has_synced": false,
+      "path": "select/pl_01_マッピング・マイ・ワールド_白丸美兎_(CV.近藤玲奈).txt"
+    }
+  ]
+}
